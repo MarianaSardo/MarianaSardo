@@ -1,4 +1,4 @@
-<img align="right" alt="Me" src="https://raw.githubusercontent.com/MarianaSardo/MarianaSardo/main/portrait-ms.png" />
+<!-- <img align="right" alt="Me" src="https://raw.githubusercontent.com/MarianaSardo/MarianaSardo/main/portrait-ms.png" /> -->
 
 ## About the girl:
 
@@ -21,8 +21,8 @@ During my technical degree program, I gained knowledge in various technologies a
 ### Bootcamp and Certifications
 
 - **Manual QA Testing**: I successfully completed a manual testing bootcamp at [Mindhub](https://www.credly.com/badges/50df416d-2910-463a-9d89-dc4169692af6/linked_in_profile), gaining practical skills in software testing and quality assurance.
-- **Scrum Foundation Professional Certificate SFPC v2020**: [![SFPC Certificate]()](https://media.licdn.com/dms/image/D4D22AQFC6dcbUJxvaQ/feedshare-shrink_800/0/1686611951990?e=1694044800&v=beta&t=PCssWXaXy_OY1HVsU0MBVS14Xyy0qqUoJE06hJAT4VE)
-- **EFSET English Proficiency Certificate**: ![77/100 (C2 Proficient)]([URL_DEL_CERTIFICADO_EFSET](https://efset.org/cert/ggpjxw)) 
+- **Scrum Foundation Professional Certificate SFPC v2020**: [![SFPC Certificate]()](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)
+- **EFSET English Proficiency Certificate**: ![77/100 (C2 Proficient)]([URL_DEL_CERTIFICADO_EFSET](https://cert.efset.org/ggpjxw)) 
 
 ### Current Endeavors
 
