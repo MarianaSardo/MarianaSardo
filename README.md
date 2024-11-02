@@ -6,7 +6,7 @@ Hi there! 👋 I'm Mariana, a recent graduate with a degree in **Technical Analy
 
 ### Education
 
-- **Technical Degree**: Analysis, Development, and Programming of Applications (Graduated: Dec 2023)
+- **Technical Degree**: Analysis, Development, and Programming of Applications (Graduated: March 2024)
 
 #### *Skills Acquired*
 
