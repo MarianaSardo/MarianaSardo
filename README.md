@@ -13,8 +13,8 @@ Hi there! 👋 I'm Mariana, a software developer with hands-on experience in var
   
 ### Certifications
 - **Manual QA Testing**: Completed a bootcamp at [Mindhub](https://www.credly.com/badges/50df416d-2910-463a-9d89-dc4169692af6/linked_in_profile).
-- **Scrum Foundation Professional Certificate (SFPC)**: [![SFPC Certificate]()](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)
-- **EFSET English Proficiency**: ![77/100 (C2 Proficient)]([URL_DEL_CERTIFICADO_EFSET](https://cert.efset.org/ggpjxw)) 
+- **Scrum Foundation Professional Certificate (SFPC)**: [[SFPC Certificate]()](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)
+- **EFSET English Proficiency**: [77/100 (C2 Proficient)]([URL_DEL_CERTIFICADO_EFSET](https://cert.efset.org/ggpjxw)) 
 
 ### Currently Working On
 - Developing and optimizing backend systems with FastAPI and Python.
