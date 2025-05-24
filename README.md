@@ -1,6 +1,5 @@
-<!-- <img align="right" alt="Me" src="https://raw.githubusercontent.com/MarianaSardo/MarianaSardo/main/portrait-ms.png" /> -->
 
-## About the girl:
+
 Hi there! 👋 I'm Mariana, a software developer with hands-on experience in various technologies and a passion for continuous learning. After graduating with a Technical Degree in Analysis, Development, and Programming of Applications, I have expanded my skill set and am currently focused on backend development, automation, and data management.
 
 ### Technical Skills
