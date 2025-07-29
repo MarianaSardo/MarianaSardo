@@ -15,8 +15,8 @@ Python • FastAPI • Streamlit • Pandas • NumPy • MySQL • Git • Dock
 
 📜 **Certifications**  
 - Manual QA Testing –  [Mindhub](https://www.credly.com/badges/50df416d-2910-463a-9d89-dc4169692af6/linked_in_profile) Bootcamp  
-- [(Scrum Foundation Professional Certificate)](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)  
-- ([EFSET English Proficiency](https://cert.efset.org/ggpjxw)) – 77/100 (C2 Proficient) 
+- [Scrum Foundation Professional Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)  
+- [EFSET English Proficiency](https://cert.efset.org/ggpjxw) – 77/100 (C2 Proficient) 
 
 🎯 **Currently**  
 Open to new opportunities where I can contribute to meaningful projects, keep learning, and grow as a developer.
