@@ -1,19 +1,26 @@
-Hi there! 👋 I'm Mariana, a junior software developer from Argentina with real-world experience in backend development and automation using Python.
+### Hi there! 👋 I'm Mariana — a software developer from Argentina
 
-I recently graduated with a Technical Degree in Application Analysis, Development and Programming. Since then, I've worked maintaining and developing financial bots, as well as internal tools for a fintech and a financial company. My main stack includes Python, FastAPI, Streamlit, MySQL and Git. I’m constantly learning, improving my skills with every task, and building things that actually work.
+💻 I specialize in backend development and process automation using Python.  
+I've built and maintained financial bots and internal tools for a fintech and a financial company, working with real-world data and requirements.
 
-### 🔧 Tech I'm using:
-- Python • FastAPI • Streamlit • MySQL • Git
-- HTML/CSS
-  
-### 📜 Certifications:
-- **Manual QA Testing**: Completed a bootcamp at [Mindhub](https://www.credly.com/badges/50df416d-2910-463a-9d89-dc4169692af6/linked_in_profile).
-- **Scrum Foundation Professional Certificate (SFPC)**: [[SFPC Certificate]()](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)
-- **EFSET English Proficiency**: [77/100 (C2 Proficient)]([URL_DEL_CERTIFICADO_EFSET](https://cert.efset.org/ggpjxw)) 
+📚 I hold a Technical Degree in Application Analysis, Development and Programming.  
+My current stack includes **Python, FastAPI, Streamlit, Pandas, MySQL, Docker** and **Git**.
 
-### 🎯 Currently:
-Looking for new opportunities to grow as a backend developer, contribute to meaningful projects, and keep learning.
+🌱 Always learning: I’m deepening my skills in **JavaScript** and **React** to expand into frontend development and become more versatile as a dev.
 
-Thanks for stopping by!
+---
 
-### Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/marianasardo/)](https://www.linkedin.com/in/marianasardo/)
+🔧 **Tech I use**  
+Python • FastAPI • Streamlit • Pandas • NumPy • MySQL • Git • Docker • HTML/CSS
+
+📜 **Certifications**  
+- Manual QA Testing –  [Mindhub](https://www.credly.com/badges/50df416d-2910-463a-9d89-dc4169692af6/linked_in_profile) Bootcamp  
+- Scrum Foundation Professional Certificate [(view)](https://www.linkedin.com/feed/update/urn:li:activity:7074163260819652608/)  
+- EFSET English Proficiency – 77/100 (C2 Proficient) ([URL_DEL_CERTIFICADO_EFSET](https://cert.efset.org/ggpjxw)) 
+
+🎯 **Currently**  
+Open to new opportunities where I can contribute to meaningful projects, keep learning, and grow as a developer.
+
+---
+
+### 🕸️ Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/marianasardo/)](https://www.linkedin.com/in/marianasardo/)
